@@ -9,7 +9,7 @@ public class SampleTest extends BaseClass {
 	@Test
 	public void testCase1() {
 
-		System.out.println("This is Testcase1");
+		System.out.println("This is Testcase1  ");
 	}
 
 	@Test
